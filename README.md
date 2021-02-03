@@ -1,5 +1,7 @@
 ### Hi there, I'm Kavan 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kavania2002.kavania2002)
+
 - I am a First year student at Ahmedabad University
 - I am currently learning everything 😉
 - Always looking to contribute
