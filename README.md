@@ -14,6 +14,7 @@
 
 [linkedin]: https://www.linkedin.com/in/kavan-gondalia-5a78a41b2/
 [instagram]: https://www.instagram.com/kavania2002/
+<a href="mailto:kavan155gondalia@gmail.com"><img src="https://img.shields.io/badge/-kavan155gondalia@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:kavan155gondalia@gmail.com" alt="Gmail Badge"></a>
 
 <br>
 
