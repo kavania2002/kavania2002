@@ -1,47 +1,47 @@
 ## Hi there, I'm Kavan 👋
+
 You have arrived at **Kavan's Profile**, a computer science enthusiast and a person who is well disciplined, hard-working and helpful who is currently exploring everything. 😉
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kavania2002.kavania2002&left_color=green&right_color=blue)
-
-- Currently studying Computer Science & Engineering at Ahmedabad University
-- Highly skilled **NodeJS** Developer
-- Competitive Programmer 
-- Explored Web Dev and App Dev
-- Proficient in **C++**, **JavaScript**, **Python**
+![Visitor Count](https://profile-counter.glitch.me/kavania2002/count.svg)
 
 <br>
 <p align="center">
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 </p>
 
-
-### 🛠️  Technical Skill Set
+### 🛠️ Technical Skill Set
 
 ### Languages:
+
 <p float="left">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white">
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Solidity-5C5C5E?style=for-the-badge&logo=solidity&logoColor=black">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <mig src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-
 ### Frameworks and Libraries
+
 #### Frontend:
 
 <p float="left">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/NextJs-5000ff?style=for-the-badge&logo=nextjs&logoColor=black">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00">
 </p>
 
 #### Backend:
@@ -52,7 +52,6 @@ You have arrived at **Kavan's Profile**, a computer science enthusiast and a per
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 </p>
 
-
 ### Databases:
 
 <p float="float">
@@ -60,14 +59,18 @@ You have arrived at **Kavan's Profile**, a computer science enthusiast and a per
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-F2C129?style=for-the-badge&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/lmdb-D195CB?style=for-the-badge&logo=lmdb&logoColor=black">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 </p>
 
-### Server Side:
+### Cloud:
 
 <p float="left">
+<img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white">
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </p>
 
 ### IDEs/Editors:
@@ -75,13 +78,16 @@ You have arrived at **Kavan's Profile**, a computer science enthusiast and a per
 <p float="left">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
 <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white">
 </p>
 
 ### OS and VC
+
 <p float="left">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
@@ -98,8 +104,6 @@ You have arrived at **Kavan's Profile**, a computer science enthusiast and a per
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/kavania2002/)
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/profile/kavania2002)
 [<img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />](https://www.hackerearth.com/@kavan155gondalia)
-
-
 [<img src="https://img.shields.io/badge/Github Gist-100000?style=for-the-badge&logo=github&logoColor=white" />](https://gist.github.com/kavania2002/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kavania2002/)
 [<img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />](https://in.pinterest.com/kavan12gondalia/)
@@ -110,13 +114,14 @@ You have arrived at **Kavan's Profile**, a computer science enthusiast and a per
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:kavan155gondalia@gmail.com)
 
 ### Github Stats:
+
 <center>
 
 <img border="1" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavania2002&theme=radical" />
 
 ![Kavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavania2002&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavania2002&langs_count=5&show_icons=true&theme=radical)](https://github.com/kavania2002/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavania2002&langs_count=5&show_icons=true&theme=radical)
 
 <img src="https://github-profile-trophy.vercel.app/?username=kavania2002&margin-w=5&theme=radical">
 
