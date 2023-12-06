@@ -1,6 +1,6 @@
 ## Hi there, I'm Kavan 👋
 
-You have arrived at **Kavan's Profile**, a computer science enthusiast and a person who is well disciplined, hard-working and helpful who is currently exploring everything. 😉
+You have arrived at **Kavan's Profile**, a computer science enthusiast and a person who is well disciplined, hard-working and helpful who is currently trying to explore everything. 😉
 
 ![Visitor Count](https://profile-counter.glitch.me/kavania2002/count.svg)
 
