@@ -24,7 +24,7 @@ jobs:
           config_timezone: Asia/Calcutta
           plugin_activity: yes
           plugin_activity_days: 14
-          plugin_activity_filter: issue, pr, release, review, comment
+          plugin_activity_filter: issue, pr, release
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
@@ -54,4 +54,6 @@ jobs:
           plugin_lines_sections: base
           plugin_notable: yes
           plugin_notable_from: all
-          plugin_notable_types: commit,issue
+          plugin_notable_types: commit, issue
+          plugin_stars: yes
+          plugin_stars_limit: 4
