@@ -9,3 +9,11 @@ You have arrived at **Kavan's Profile**, a computer science enthusiast and a per
 ![](./github-metrics.svg)
 
 <sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
+
+---
+
+## :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+---
