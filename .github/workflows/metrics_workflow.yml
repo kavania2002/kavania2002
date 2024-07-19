@@ -47,5 +47,6 @@ jobs:
           plugin_leetcode_sections: solved
           plugin_leetcode_user: .user.login
           plugin_notable: yes
+          plugin_notable_filter: forks:>100
           plugin_notable_from: organization
           plugin_notable_types: commit
