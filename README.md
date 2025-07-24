@@ -15,7 +15,7 @@ You have arrived at **Kavan's Profile**, a computer science enthusiast and a per
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/kavania2002/simple-portfolio/issues/1) in [kavania2002/simple-portfolio](https://github.com/kavania2002/simple-portfolio)
+1. ❗ Opened issue [#711](https://github.com/originjs/vite-plugin-federation/issues/711) in [originjs/vite-plugin-federation](https://github.com/originjs/vite-plugin-federation)
 2. 💪 Opened PR [#18](https://github.com/kavania2002/published-links-buddy/pull/18) in [kavania2002/published-links-buddy](https://github.com/kavania2002/published-links-buddy)
 3. 🎉 Merged PR [#17](https://github.com/kavania2002/published-links-buddy/pull/17) in [kavania2002/published-links-buddy](https://github.com/kavania2002/published-links-buddy)
 4. 💪 Opened PR [#17](https://github.com/kavania2002/published-links-buddy/pull/17) in [kavania2002/published-links-buddy](https://github.com/kavania2002/published-links-buddy)
