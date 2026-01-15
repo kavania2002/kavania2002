@@ -2,7 +2,8 @@
 
 You have arrived at **Kavan's Profile**, a computer science enthusiast and a person who is well disciplined, hard-working and helpful and currently trying to explore everything. 😉
 
-![Visitor Count](https://profile-counter.glitch.me/kavania2002/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/kavania2002/count.svg) -->
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kavania2002.kavania2002)
 
 ## GitHub Stats
 
